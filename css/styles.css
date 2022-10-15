@@ -148,7 +148,7 @@ ul
     display: flex;
     gap:50px;
 }
-.list-nav .item{
+.list-nav .navigation-link{
     padding-top: 33px;
     padding-bottom: 31px;
 }
@@ -179,6 +179,9 @@ ul
     color: var(--company-color);
 }
 .top-contact {
+    padding-top: 33px;
+    padding-bottom: 31px;
+
     display: flex;
     align-items: center;
     gap: 10px;
